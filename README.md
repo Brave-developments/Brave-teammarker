@@ -7,8 +7,11 @@ The TeamMarker script is designed to enhance team coordination by allowing playe
 **How to Install**
 
 Add the resource to your server’s resources folder.
+
 Ensure that brave-teammarker is included in your server.cfg:
+
 plaintext
+
 Copy code
 ``ensure brave-teammarker``
 Simply watch the installation video for further guidance.
@@ -26,6 +29,9 @@ Copy code
 Config.MarkerColor = { r = 255, g = 0, b = 0, a = 150 } -- Marker color (RGBA)``
 
 **Future Plans**
+
 Dynamic Markers: Allow players to place different types of markers based on the situation.
+
 User-Defined Marker Customization: Enable each player to customize their markers independently.
+
 Incorporate feedback and suggestions from the community for future improvements.
